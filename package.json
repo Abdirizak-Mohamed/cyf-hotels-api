@@ -1,0 +1,25 @@
+{
+    "name": "cyf-hotels-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Abdirizak-Mohamed/cyf-hotels-api.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Abdirizak-Mohamed/cyf-hotels-api/issues"
+    },
+    "homepage": "https://github.com/Abdirizak-Mohamed/cyf-hotels-api#readme",
+    "dependencies": {
+        "express": "^4.18.1",
+        "nodemon": "^2.0.16",
+        "pg": "^8.7.3"
+    }
+}
